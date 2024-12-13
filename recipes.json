@@ -1,0 +1,396 @@
+[
+    {
+      "recipeName": "Arugula Salad",
+      "category": ["Salad"],
+      "priority": 1,
+      "ingredients": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "name": "Parmesan",
+          "department": "Refrigerated racking"
+        },
+        {
+          "amount": 1,
+          "unit": "Pack",
+          "name": "Rocket salad",
+          "department": "Fruits and vegetables"
+        },
+        {
+          "amount": 100,
+          "unit": "g",
+          "name": "Tomatoes",
+          "department": "Fruits and vegetables"
+        }
+      ],
+      "comment": "Scrape Parmesan into wafer-thin slices with grater. Cocktail tomatoes look great on it."
+    },
+    {
+      "recipeName": "Greek salad",
+      "category": ["Archive"],
+      "priority": 1,
+      "ingredients": [
+        {
+          "amount": 1,
+          "unit": "",
+          "name": "Cucumbers",
+          "department": "Fruits and vegetables"
+        },
+        {
+          "amount": 400,
+          "unit": "g",
+          "name": "Tomatoes",
+          "department": "Fruits and vegetables"
+        },
+        {
+          "amount": 1,
+          "unit": "Pack",
+          "name": "Sheep cheese",
+          "department": "Refrigerated racking"
+        },
+        {
+          "amount": 1,
+          "unit": "Glasses",
+          "name": "Black olives with stone",
+          "department": "Durable"
+        },
+        {
+          "amount": 1,
+          "unit": "",
+          "name": "Onions",
+          "department": "Fruits and vegetables"
+        }
+      ],
+      "comment": "cut ingredients into thick slices. Greece-Style! Cut onions into rings and put a little salt on top and leave for a short time. Then they become softer and are no longer so sharp."
+    },
+    {
+      "recipeName": "Semolina porridge",
+      "category": ["Archive"],
+      "priority": 1,
+      "ingredients": [
+        {
+          "amount": 1,
+          "unit": "Pack",
+          "name": "Soft wheat semolina",
+          "department": "Durable"
+        },
+        {
+          "amount": 500,
+          "unit": "ml",
+          "name": "Whole milk, 3.5%",
+          "department": "Refrigerated racking"
+        },
+        {
+          "amount": 0.5,
+          "unit": "Glass",
+          "name": "Jam",
+          "department": "Durable"
+        },
+        {
+          "amount": 2,
+          "unit": "",
+          "name": "Bananas",
+          "department": "Fruits and vegetables"
+        }
+      ],
+      "comment": "Do not forget to stir! 2.5 to 1 ratio of milk to semolina. Sprinkle cinnamon over it. Category 1, if only with cinnamon and A LITTLE sugar, and a lot of fruit."
+    },
+    {
+      "recipeName": "Pizza Souls",
+      "category": ["Archive"],
+      "priority": 3,
+      "ingredients": [
+        {
+          "amount": 250,
+          "unit": "g",
+          "name": "Grated cheese",
+          "department": "Refrigerated racking"
+        },
+        {
+          "amount": 250,
+          "unit": "ml",
+          "name": "Cream",
+          "department": "Refrigerated racking"
+        },
+        {
+          "amount": 250,
+          "unit": "g",
+          "name": "Cooked ham",
+          "department": "Refrigerated racking"
+        },
+        {
+          "amount": 0.25,
+          "unit": "Tube",
+          "name": "Tomato paste",
+          "department": "Durable"
+        },
+        {
+          "amount": 3,
+          "unit": "",
+          "name": "Souls",
+          "department": "Baker"
+        },
+        {
+          "amount": 1,
+          "unit": "",
+          "name": "Carrots",
+          "department": "Fruits and vegetables"
+        },
+        {
+          "amount": 1,
+          "unit": "",
+          "name": "Red pepper",
+          "department": "Fruits and vegetables"
+        }
+      ],
+      "comment": "Carrots rapeseed, peppers cut into small pieces. You can also make bread slices instead of with souls. Cheese and ham in cubes. Grated cheese: Gouda Mittelalt. Pizza seasoning, salt, pepper."
+    },
+    {
+      "recipeName": "Scrambled eggs with cooked ham",
+      "category": ["Archive"],
+      "priority": 2,
+      "ingredients": [
+        {
+          "amount": 150,
+          "unit": "g",
+          "name": "Cooked ham",
+          "department": "Refrigerated racking"
+        },
+        {
+          "amount": 4,
+          "unit": "",
+          "name": "Eggs",
+          "department": "Durable"
+        },
+        {
+          "amount": 25,
+          "unit": "g",
+          "name": "Parmesan",
+          "department": "Refrigerated racking"
+        },
+        {
+          "amount": 1,
+          "unit": "Pack",
+          "name": "Chives",
+          "department": "Frozen"
+        }
+      ],
+      "comment": "Salt with smoked salt (for bacon flavor). Also goes as a lunch or dinner. Substantial."
+    },
+    {
+      "recipeName": "Fried potatoes with sour cucumbers and carrot salad",
+      "category": ["Archive"],
+      "priority": 1,
+      "ingredients": [
+        {
+          "amount": 0.5,
+          "unit": "kg",
+          "name": "Potatoes",
+          "department": "Fruits and vegetables"
+        },
+        {
+          "amount": 2,
+          "unit": "",
+          "name": "Onions",
+          "department": "Fruits and vegetables"
+        },
+        {
+          "amount": 1,
+          "unit": "Glass",
+          "name": "Sour cucumbers",
+          "department": "Durable"
+        },
+        {
+          "amount": 300,
+          "unit": "g",
+          "name": "Carrots",
+          "department": "Durable"
+        }
+      ],
+      "comment": "Chopped onions (one!) fry in fat. Good frying pan, so that it does not bake. Also goes as a lunch or dinner. Grate potatoes, dice a small onion. Mix with salt, vinegar and oil. Serve with cucumbers and carrot salad."
+    },
+    {
+      "recipeName": "Fruit Muesli",
+      "category": ["Archive"],
+      "priority": 1,
+      "ingredients": [
+        {
+          "amount": 3000,
+          "unit": "ml",
+          "name": "Whole milk, 3.5%",
+          "department": "Refrigerated racking"
+        },
+        {
+          "amount": 1,
+          "unit": "Pack",
+          "name": "Cologne oatmeal (blue)",
+          "department": "Durable"
+        },
+        {
+          "amount": 7,
+          "unit": "",
+          "name": "Bananas",
+          "department": "Fruits and vegetables"
+        },
+        {
+          "amount": 7,
+          "unit": "",
+          "name": "Apples",
+          "department": "Fruits and vegetables"
+        },
+        {
+          "amount": 1,
+          "unit": "kg",
+          "name": "Seasonal fruits",
+          "department": "Fruits and vegetables"
+        },
+        {
+          "amount": 0.5,
+          "unit": "kg",
+          "name": "Yogurt 3.5%",
+          "department": "Refrigerated racking"
+        }
+      ],
+      "comment": "Keep the tradition! Drive in the apple, crush the banana, let the oatmeal swell. Overall, eat less, smaller people."
+    },
+    {
+      "Recipe Name": "Spaghetti Carbonara",
+      "category": ["Archive"],
+      "priority": 3,
+      "ingredients": [
+        {
+          "amount": 150,
+          "unit": "g",
+          "name": "Bacon cubes",
+          "department": "Refrigerated racking"
+        },
+        {
+          "amount": 3,
+          "unit": "",
+          "name": "Eggs",
+          "department": "Durable"
+        },
+        {
+          "amount": 100,
+          "unit": "ml",
+          "name": "Cream",
+          "department": "Refrigerated racking"
+        },
+        {
+          "amount": 100,
+          "unit": "g",
+          "name": "Parmesan",
+          "department": "Refrigerated racking"
+        },
+        {
+          "amount": 200,
+          "unit": "g",
+          "name": "Spaghetti",
+          "department": "Durable"
+        }
+      ],
+      "comment": "Be careful with the salt - because of the bacon; no salt in the sauce! Fry the ham cubes. Combine salt, pepper and all other ingredients. All together over the drained spaghetti. Taste again with S+P. Just like at the Vapiano in Berlin. "
+    },
+    {
+      "recipeName": "Pancake Cake",
+      "category": ["Archive"],
+      "priority": 2,
+      "ingredients": [
+        {
+          "amount": 3,
+          "unit": "",
+          "name": "Eggs",
+          "department": "Durable"
+        },
+        {
+          "amount": 400,
+          "unit": "g",
+          "name": "Flour",
+          "department": "Durable"
+        },
+        {
+          "amount": 400,
+          "unit": "ml",
+          "name": "Whole milk, 3.5%",
+          "department": "Refrigerated racking"
+        },
+        {
+          "amount": 1,
+          "unit": "Glasses",
+          "name": "Applesauce",
+          "department": "Durable"
+        },
+        {
+          "amount": 1,
+          "unit": "Glasses",
+          "name": "Jam",
+          "department": "Durable"
+        },
+        {
+          "amount": 1,
+          "unit": "",
+          "name": "Bananas",
+          "department": "Fruits and vegetables"
+        }
+      ],
+      "comment": "There can also be grated cheese on it."
+    },
+    {
+      "recipeName": "Käsespätzle",
+      "category": ["Archive"],
+      "priority": 2,
+      "ingredients": [
+        {
+          "amount": 500,
+          "unit": "g",
+          "name": "Flour",
+          "department": "Durable"
+        },
+        {
+          "amount": 4,
+          "unit": "",
+          "name": "Eggs",
+          "department": "Durable"
+        },
+        {
+          "amount": 3,
+          "unit": "",
+          "name": "Onions",
+          "department": "Fruits and vegetables"
+        },
+        {
+          "amount": 200,
+          "unit": "g",
+          "name": "Mountain cheese",
+          "department": "Refrigerated racking"
+        }
+      ],
+      "comment": "Alternatively, you can also mix half / half with instant flour if no late flour is available. With a pinch of salt and cold water, make the dough. Cheese: mountain cheese, but not too old. Rather a young / medium-aged mountain cheese - otherwise too dry."
+    },
+    {
+      "recipeName": "Swiss sausage salad",
+      "category": ["Archive"],
+      "priority": 3,
+      "ingredients": [
+        {
+          "amount": 200,
+          "unit": "g",
+          "name": "Mountain cheese",
+          "department": "Refrigerated racking"
+        },
+        {
+          "amount": 200,
+          "unit": "g",
+          "name": "Lyon sausage",
+          "department": "Refrigerated racking"
+        },
+        {
+          "amount": 0.5,
+          "unit": "Glasses",
+          "name": "Pickles",
+          "department": "Durable"
+        }
+      ],
+      "comment": "Alternatively, you can also mix half / half with instant flour if no late flour is available. With a pinch of salt and cold water, make the dough. Cheese: mountain cheese, but not too old. Rather a young / medium-aged mountain cheese - otherwise too dry."
+    }
+]  
